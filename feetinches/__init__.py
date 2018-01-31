@@ -1,5 +1,3 @@
-
-
 import re
 
 def fi_to_inches(s):
